@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.delete-short-code {
+    cursor: pointer;
+}
+
+.error_message {
+    color: red;
+}
